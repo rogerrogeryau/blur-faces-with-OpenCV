@@ -13,6 +13,9 @@
 ![](https://github.com/rogerrogeryau/blur-faces-with-OpenCV/blob/master/README_image/blur_many_faces.PNG)
 > Various Scientists at Solvay Conference in blurring mask on their faces
 
+![](https://github.com/rogerrogeryau/blur-faces-with-OpenCV/blob/master/README_image/video_streaming_demo.gif)
+> video streaming with median blur effect
+
 
 # 📗 Usage
 
